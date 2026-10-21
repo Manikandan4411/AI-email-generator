@@ -604,11 +604,15 @@ Java Backend Developer | Spring Boot Developer | Software Engineer
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the **MIT License**.
+Copyright © 2026 Manikandan S. All Rights Reserved.
 
-You are free to use, modify, and distribute this project for personal or educational purposes.
+This AI Email Generator project is available for viewing and personal educational reference only. Copying, modifying, redistributing, or commercially using the original source code and project materials without prior written permission is prohibited.
+
+Third-party components and services remain subject to their respective licenses and terms.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
